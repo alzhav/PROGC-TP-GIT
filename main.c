@@ -1,3 +1,7 @@
 #include <stdio.h>
 
-printf("I Love DigiLab");
+int main(){
+    printf("I Love DigiLab");
+
+    return 0;
+}
